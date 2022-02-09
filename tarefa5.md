@@ -10,3 +10,12 @@
 
 ---
 
+## Seção 2
+
+### 2.1 - Comandos:
+- `git commit -m 'Comentário Nova Branch'`
+- `git push -u origin NovaBranch`
+
+
+
+### 2.2 - `git fetch`
