@@ -5,7 +5,6 @@
 
 ### 1.2 - Uma forma de resolver um conflito é criando outro commit após o arquivo em questão ser atualizado. Os arquivos que estão em conflito podem ser verificadoa com o `git status`, após isso é necessário abri-los e localizar os "marcadores de conflito", decidir qual parte do código deverá ser mantida, digitar o comando `git add .` e por fim fazer um `git commit` e `git push`.
 
-
 <br>   
 
 ---
@@ -16,6 +15,12 @@
 - `git commit -m 'Comentário Nova Branch'`
 - `git push -u origin NovaBranch`
 
-
-
 ### 2.2 - `git fetch`
+
+
+<br>
+
+---
+
+## Seção 3
+Link: GitHub
