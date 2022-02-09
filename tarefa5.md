@@ -23,4 +23,4 @@
 ---
 
 ## Seção 3
-Link: GitHub
+Link: [GitHub](https://github.com/jrafaelrn/guiaSobrevivenciaProg)
